@@ -33,7 +33,3 @@ Due to GitHub file size limitations, the excel dashboard and dataset files are a
 - KPI cards for quick performance overview  
 - Trend analysis over time  
 - Route-based performance visualization  
-
-Due to GitHub file size limitations, the excel dashboard and dataset files are available in this drive link:
-
-🔗 [Download Project Files (Google Drive)](https://drive.google.com/drive/folders/1NtSffdqPeMeRT89FvFYA_Jco2f6QfmIV?usp=drive_link)
